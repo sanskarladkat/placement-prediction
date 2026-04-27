@@ -2,7 +2,7 @@
 
 # 🎓 Getting Admission in College Prediction
 
-[![🏆 Live Leaderboard](https://img.shields.io/badge/🏆_Live_Leaderboard-View_Here-059669?style=for-the-badge)](https://sanskarladkat.github.io/admission-prediction/)
+[![🏆 Live Leaderboard](https://img.shields.io/badge/🏆_Live_Leaderboard-View_Here-059669?style=for-the-badge)](https://sanskarladkat.github.io/placement-prediction/)
 
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
