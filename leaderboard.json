@@ -10,6 +10,15 @@
       "submitted_at": "2026-04-26T00:00:00Z"
     },
     {
+      "username": "sohamsudrik",
+      "r2_score": 0.821479,
+      "pr_number": 1,
+      "pr_url": "https://github.com/sanskarladkat/placement-prediction/pull/1",
+      "submitted_at": "2026-04-27T07:19:59.523142Z",
+      "is_baseline": false,
+      "rank": 2
+    },
+    {
       "username": "SubhajitDolai",
       "r2_score": 0.818843,
       "pr_number": 1,
@@ -19,5 +28,5 @@
       "rank": 3
     }
   ],
-  "last_updated": "2026-04-26T16:48:28.052590Z"
+  "last_updated": "2026-04-27T07:19:59.523153Z"
 }
