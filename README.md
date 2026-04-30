@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 🎓 Getting Admission in College Prediction
 
 [![🏆 Live Leaderboard](https://img.shields.io/badge/🏆_Live_Leaderboard-View_Here-059669?style=for-the-badge)](https://sanskarladkat.github.io/placement-prediction/)
